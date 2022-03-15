@@ -1,0 +1,17 @@
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
