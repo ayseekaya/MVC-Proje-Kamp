@@ -77,3 +77,16 @@ D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\obj\Debug\MVCProjeK
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\obj\Debug\MVCProjeKampi.csproj.CopyComplete
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\obj\Debug\MVCProjeKampi.dll
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\obj\Debug\MVCProjeKampi.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\BusinessLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\DataAccessLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityLayer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\BusinessLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\BusinessLayer.dll.config
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\DataAccessLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\DataAccessLayer.dll.config
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityLayer.dll.config
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.xml
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.SqlServer.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.SqlServer.xml
