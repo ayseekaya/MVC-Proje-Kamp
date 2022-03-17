@@ -90,3 +90,5 @@ D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityLayer.dll
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.xml
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.SqlServer.dll
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\EntityFramework.SqlServer.xml
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\FluentValidation.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\MVCProjeKampi\bin\FluentValidation.xml

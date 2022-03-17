@@ -16,3 +16,5 @@ D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessL
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
