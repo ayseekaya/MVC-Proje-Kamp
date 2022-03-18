@@ -8,6 +8,9 @@
 @using (Html.BeginForm("EditCategory", "AdminCategory", FormMethod.Post))
 {
     <div class="form-group">
+        @Html.Label("Kategori ID")
+        @Html.TextBoxFor(x => x.CategoryID, new { @class = "form-control" })
+        <br />
         @Html.Label("Kategori Adı")
         @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
         @Html.ValidationMessageFor(x => x.CategoryName)
