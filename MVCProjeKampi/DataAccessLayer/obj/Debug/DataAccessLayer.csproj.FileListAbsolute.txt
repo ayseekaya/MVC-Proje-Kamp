@@ -17,3 +17,4 @@ D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAcc
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle.resources
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migimagesize.resources
