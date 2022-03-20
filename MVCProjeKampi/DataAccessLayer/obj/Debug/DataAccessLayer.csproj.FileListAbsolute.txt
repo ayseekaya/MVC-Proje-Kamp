@@ -18,3 +18,6 @@ D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAcc
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle.resources
 D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.editwriterimage.resources
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_addstatus.resources
+D:\MVC_Proje_Kamp\MVC-Proje-Kamp\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_addstatus.resources

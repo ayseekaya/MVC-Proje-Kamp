@@ -5,6 +5,8 @@
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 @{ string color = "";}
+@{ string active = "";}
+@{ string delete = "";}
 <!DOCTYPE html>
 <html>
 
@@ -43,8 +45,11 @@
                             <th style="width: 20%">
                                 Başlık Adı
                             </th>
-                            <th style="width: 30%">
+                            <th style="width: 15%">
                                 Oluşturan Yazar
+                            </th>
+                            <th style="width: 10%">
+                                Durum
                             </th>
                             <th style="width: 8%" class="text-center">
                                 Kategori
@@ -76,6 +81,17 @@
                             {
                                 color = "badge badge-secondary";
                             }
+
+                            if(item.HeadingStatus==true)
+                            {
+                                active = "Aktif";
+                                delete = "Sil";
+                            }
+                            if (item.HeadingStatus == false)
+                            {
+                                active = "Pasif";
+                                delete = "Aktif";
+                            }
                             <tr>
                                 <td>
                                     @item.HeadingID
@@ -96,24 +112,27 @@
                                         </li>
                                     </ul>
                                 </td>
+                                <td>
+                                    @active
+                                </td>
                                 <td class="project-state">
                                     <span class="@color">@item.Category.CategoryName</span>
                                 </td>
                                 <td class="project-actions text-right">
-                                    <a class="btn btn-primary btn-sm" href="#">
+                                    <a class="btn btn-primary btn-sm" href="/Content/ContentByHeading/@item.HeadingID">
                                         <i class="fas fa-folder">
                                         </i>
                                         Yazılar
                                     </a>
-                                    <a class="btn btn-info btn-sm" href="#">
+                                    <a class="btn btn-info btn-sm" href="/Heading/EditHeading/@item.HeadingID">
                                         <i class="fas fa-pencil-alt">
                                         </i>
                                         Düzenle
                                     </a>
-                                    <a class="btn btn-danger btn-sm" href="#">
+                                    <a class="btn btn-danger btn-sm" href="/Heading/DeleteHeading/@item.HeadingID">
                                         <i class="fas fa-trash">
                                         </i>
-                                        Sil
+                                        @delete
                                     </a>
                                 </td>
                             </tr>
@@ -127,25 +146,4 @@
     </section>
 </body>
 </html>
-
-
-
-@*<h2>Index</h2>
-    <br />
-    <table class="table table-bordered">
-        <tr>
-            <th>ID</th>
-            <th>Başlık</th>
-            <th>Kategori</th>
-        </tr>
-        @foreach(var item in Model)
-        {
-            <tr>
-                <td>@item.HeadingID</td>
-                <td>@item.HeadingName</td>
-                <td>@item.Category.CategoryName</td>
-            </tr>
-        }
-    </table>
-    <br />
-    <a href="/Heading/AddHeading" class="btn btn-info">Yeni başlık Girişi</a>*@
+<a href="/Heading/AddHeading/" class="btn btn-primary">Yeni Başlık Girişi</a>
